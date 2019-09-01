@@ -1,0 +1,23 @@
+{
+  "name": "react-native-uat-modal",
+  "version": "1.0.0",
+  "description": "自带动画蒙层",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark5566/react-native-uat-modal.git"
+  },
+  "keywords": [
+    "蒙层",
+    "动画"
+  ],
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark5566/react-native-uat-modal/issues"
+  },
+  "homepage": "https://github.com/mark5566/react-native-uat-modal#readme"
+}
